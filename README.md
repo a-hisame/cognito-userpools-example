@@ -2,6 +2,8 @@
 
 This project is an example of using Cognito UserPools feature for server side user management.
 
+I explain how to use the cognito-idp and cognito-identity APIs [here](./feature-list.md).
+
 ```
 Notice: This is a toy program. so we re-write managed contents manually (not good way).
 ```
